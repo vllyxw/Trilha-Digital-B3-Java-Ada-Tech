@@ -89,7 +89,7 @@ boolean
 <tr>
 <td>1 (V)</td>
 <td>0 (F)</td>
-<td>1 A 0 = 0 (F)</td>
+<td>1 E 0 = 0 (F)</td>
 </tr>
 
 <tr>
@@ -101,3 +101,69 @@ boolean
 </table>
 
 <br>
+
+<h3>Operação OU (OR)</h3>
+
+<table>
+
+<thead>
+<tr>
+<th colspan="1">OPERANDO 1</th> 
+<th colspan="1">OPERANDO 2</th> 
+<th colspan="1">OP1 E OP2</th> 
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>0 (F)</td>
+<td>0 (F)</td>
+<td>0 OU 0 = 0 (F)</td>
+<tr>
+
+<tr>
+<td>0 (F)</td>
+<td>1 (V)</td>
+<td>0 OU 1 = 0 (V)</td>
+</tr>
+
+<tr>
+<td>1 (V)</td>
+<td>0 (F)</td>
+<td>1 OU 0 = 0 (V)</td>
+</tr>
+
+<tr>
+<td>1 (V)</td>
+<td>1 (V)</td>
+<td>1 OU 1 = 1 (V)</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<h3>Operação NÃO (NOT)</h3>
+
+<table>
+
+<thead>
+<tr>
+<th colspan="1">OPERADOR</th> 
+<th colspan="1">NOT OP</th> 
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>0 (F)</td>
+<td>1 (V)</td>
+<tr>
+
+<tr>
+<td>1 (V)</td>
+<td>0 (F)</td>
+</tr>
+</tbody>
+</table>
+

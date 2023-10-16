@@ -55,3 +55,47 @@ boolean
 <td>5 == 4 = F</td>
 </tr>
 </tbody>
+
+<br>
+
+<h2>Operações Lógicas</h2>
+
+<h3>Operação E (AND)</h3>
+
+<table>
+
+<thead>
+<tr>
+<th colspan="1">OPERANDO 1</th> 
+<th colspan="1">OPERANDO 2</th> 
+<th colspan="1">OP1 E OP2</th> 
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>0 (F)</td>
+<td>0 (F)</td>
+<td>0 E 0 = 0 (F)</td>
+<tr>
+
+<tr>
+<td>0 (F)</td>
+<td>1 (V)</td>
+<td>0 E 1 = 0 (F)</td>
+</tr>
+
+<tr>
+<td>1 (V)</td>
+<td>0 (F)</td>
+<td>1 A 0 = 0 (F)</td>
+</tr>
+
+<tr>
+<td>1 (V)</td>
+<td>1 (V)</td>
+<td>1 E 1 = 1 (V)</td>
+</tr>
+</tbody>
+
+<br>

@@ -167,3 +167,11 @@ boolean
 </tbody>
 </table>
 
+<br>
+
+<h2>Operador Ternário - ?</h2>
+<p>O operador ternário é um recurso para tomada de decisões quando há dois comportamentos possíveis. Similar ao do if/else, mas que é codificado em apenas uma linha. </p>
+
+~~~
+(expressão booleana) ? código 1 : código 2;
+~~~

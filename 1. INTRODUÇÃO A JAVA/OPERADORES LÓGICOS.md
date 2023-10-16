@@ -61,7 +61,7 @@ boolean
 
 <h2>Operações Lógicas</h2>
 
-<h3>Operação E (AND)</h3>
+<h3>Operação E (AND) - &&</h3>
 
 <table>
 
@@ -102,7 +102,7 @@ boolean
 
 <br>
 
-<h3>Operação OU (OR)</h3>
+<h3>Operação OU (OR) - ||</h3>
 
 <table>
 

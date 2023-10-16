@@ -55,6 +55,7 @@ boolean
 <td>5 == 4 = F</td>
 </tr>
 </tbody>
+</table>
 
 <br>
 
@@ -97,5 +98,6 @@ boolean
 <td>1 E 1 = 1 (V)</td>
 </tr>
 </tbody>
+</table>
 
 <br>
